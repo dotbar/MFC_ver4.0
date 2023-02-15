@@ -1,0 +1,4 @@
+﻿  MFC_HSHDlg.cpp
+C:\Users\Administrator\Downloads\MFC_Ver2-main\MFC_HSHDlg.cpp(382,10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Downloads\MFC_Ver2-main\MFC_HSHDlg.cpp(383,10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MFC_HSH.vcxproj -> C:\Users\Administrator\Downloads\MFC_Ver2-main\x64\Debug\MFC_HSH.exe
